@@ -1,4 +1,4 @@
-<div id="readme-content">\n<h1>🍔 Dev Burguer</h1>
+<div id="readme-content"><h1>🍔 Dev Burguer</h1>
 <p><img alt="Status do Projeto" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" />
 <img alt="Licença" src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue" /></p>
 <h2>📝 Descrição do Projeto</h2>
